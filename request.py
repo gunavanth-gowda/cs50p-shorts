@@ -1,4 +1,4 @@
-from libraries.museum.artists import get_artists
+from week6_libraries.museum.artists import get_artists
 
 
 def main():
